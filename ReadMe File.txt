@@ -1,0 +1,3 @@
+This is the recipe application for the user to add the the recipe they wish to add. The program the first ask the user to input the number of the ingredients and allow the user to list them. Then it will ask the user to enter the quantity and measurements of the ingredients they entered. The program also ask the user to list the number of steps in order to make the finished product of the recipe. The program will thereafter display the added recipe and also display the menu. the menu have an option for the user to scale the recipe, clear the added recipe and add another one and to exit the application.
+
+https://github.com/ST10244738/RecipeApp 
